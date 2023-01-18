@@ -5,6 +5,7 @@ public class main {
 
     public static void main(String arg[]){
         int n;
+        int k;
         Scanner scanner = new Scanner(System.in);
         System.out.println("nhap n = ");
         n = scanner.nextInt();

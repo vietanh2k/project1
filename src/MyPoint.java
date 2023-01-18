@@ -1,6 +1,7 @@
 public class MyPoint {
     private double x;
     private double y;
+    private double z;
 
     public MyPoint(){
         this.x = 0;
